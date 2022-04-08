@@ -1,13 +1,13 @@
-PS5 = "";
-PS4 = "";
+song1 = "";
+song2 = "";
 leftWristX = 0;
 leftWristY = 0;
 rightWristX = 0;
 rightWristY = 0;
 
 function preload() {
-    PS5 = loadSound("PS5.mp3");
-    PS4 = loadSound("PS4.mp3");
+    song1 = loadSound("PS5.mp3");
+    song2 = loadSound("PS4.mp3");
 }
 
 function setup() {
