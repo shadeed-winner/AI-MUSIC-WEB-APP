@@ -12,7 +12,7 @@ function preload() {
 
 function setup() {
     canvas = createCanvas(600, 500);
-    canvas.center();
+    canvas.position(400,275);
 
     video = createCapture(VIDEO);
     video.hide();
