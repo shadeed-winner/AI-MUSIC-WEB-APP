@@ -1,6 +1,6 @@
 song1 = "";
 song2 = "";
-leftWristX = 0;
+leftWristX = 0; 
 leftWristY = 0;
 rightWristX = 0;
 rightWristY = 0;
