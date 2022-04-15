@@ -1,0 +1,29 @@
+.heading {
+    font-weight: bold;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-weight: bold;
+    font-size: 15.5px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+    font-family: calibri;
+    text-align: center;
+}
+
+#song {
+    font-size: 19px;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px blue;
+}
+
+canvas {
+    border: 5px solid blue;
+    border-radius: 10px;
+}
